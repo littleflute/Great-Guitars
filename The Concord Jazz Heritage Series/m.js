@@ -1,0 +1,15 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Lover.mp3";		
+f[2]	= "02 Things Ain't What They Used to Be.mp3";		
+f[3]	= "03 On Green Dolphin Street.mp3";		
+f[4]	= "04 Bernie's Tune.mp3";		
+f[5]	= "05 Gravy Waltz.mp3";		
+f[6]	= "06 Air Mail Special [Live].mp3";		
+f[7]	= "07 It Might as Well Be Spring.mp3";		
+f[8]	= "08 When Lights Are Low.mp3";		
+f[9]	= "09 Down Home Blues [Live].mp3";		
+f[10]	= "10 Little Rock Getaway.mp3";		
+f[11]	= "11 Amparo.mp3";		
+f[12]	= "12 Where or When [Live].mp3";		
+f[13]	= "13 Medley- Nuages-Goin' Out of My Head-Flying Home.mp3";		
